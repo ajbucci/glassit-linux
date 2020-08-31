@@ -1,6 +1,6 @@
-# GlassIt Linux
+# GlassIt Linux - Forked with 'Code - OSS' support
 
-[GlassIt VSC](https://github.com/hikarin522/GlassIt-VSC) is a popular Windows-only transparency extension for VSCode. `GlassIt Linux` expands that functionality to include standard Linux window managers such as GNOME.
+[GlassIt VSC](https://github.com/hikarin522/GlassIt-VSC) is a popular Windows-only transparency extension for VSCode. `GlassIt Linux` expands that functionality to include standard Linux window managers such as GNOME, as well as the 'Code - OSS' variant of VSCode. 
 
 ## Prerequisites
 
